@@ -14,16 +14,6 @@ Evaluating individual assets in isolation often leads investors to underestimate
 
 ---
 
-## Application Screenshots
-
-### 1. Performance Overview & Risk Summary
-![Portfolio Risk Dashboard](screenshot-1.png)
-
-### 2. Comparative Growth & Drawdown Trajectory
-![Visualizations and Drawdown Profile](screenshot-2.png)
-
----
-
 ## Financial Concepts & Calculations Implemented
 
 The application performs several quantitative calculations using an annualized 252-trading-day convention:
