@@ -17,10 +17,10 @@ Evaluating individual assets in isolation often leads investors to underestimate
 ## Application Screenshots
 
 ### 1. Performance Overview & Risk Summary
-![Portfolio Risk Dashboard](screenshot1.png)
+![Portfolio Risk Dashboard](<img width="1725" height="386" alt="Screenshot 2026-10-23 123644" src="https://github.com/user-attachments/assets/76787d88-a533-416b-9114-9572fec0d4b6" />)
 
 ### 2. Comparative Growth & Drawdown Trajectory
-![Visualizations and Drawdown Profile](screenshot2.png)
+![Visualizations and Drawdown Profile](<img width="1842" height="822" alt="Screenshot 2026-10-23 123728" src="https://github.com/user-attachments/assets/ac1bb96d-e716-4563-a163-eee8109dde21" />)
 
 ---
 
