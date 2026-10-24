@@ -4,6 +4,13 @@ An interactive FinTech web prototype designed to evaluate multi-asset portfolio 
 
 ---
 
+## Application Screenshots
+
+![Dashboard Overview](screenshot-1.png)
+![Risk & Performance Metrics](screenshot-2.png)
+
+---
+
 ## Application Purpose & Functionality
 
 Evaluating individual assets in isolation often leads investors to underestimate portfolio risk arising from high correlations, sector concentration, and tail-risk drawdowns. This prototype provides an intuitive analytics dashboard where users can:
@@ -71,7 +78,28 @@ Follow these steps to run the application locally or in a cloud workspace:
 - Git
 
 ### Setup & Execution
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/JackHansen67/investment-portfolio-risk-analyzer.git](https://github.com/JackHansen67/investment-portfolio-risk-analyzer.git)
-   cd investment-portfolio-risk-analyzer
+1. Clone this depository:
+```bash
+git clone https://github.com/JackHansen67/investment-portfolio-risk-analyzer.git
+cd investment-portfolio-risk-analyzer
+```
+2. Create and activate virtual environment:
+```bash
+python -m venv venv
+# On macOS/Linux:
+source venv/bin/activate
+# On Windows:
+venv\Scripts\activate
+```
+3. Install required dependencies:
+```bash
+pip install -r requirements.txt
+```
+4. Launch the Streamlit application
+```bash
+streamlit run app.py
+```
+5. Access the interactive dashboard in your browser at:
+```text
+http://localhost:8501/
+```
